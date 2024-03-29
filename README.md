@@ -1,7 +1,7 @@
 - 👋 Hi, I’m I am Vishnu Vardhan Rao.
 - 👀 I’m interested in Full stack development, mainly strengthing my frontend skills tp get into Blockchain development
-- 🌱 I’m currently learning Python for backend
-- 💞️ I’m looking to collaborate on full stack responsive websites
+- 🌱 I’m currently learning Python for Data Science
+- 💞️ I’m looking to collaborate on Machine learning projects and internships
 - 📫 How to reach me @vishabit_009
 - 😄 Pronouns: He/him
 - ⚡ Fact: Har Har Mahadev, keep going! 
