@@ -1,5 +1,5 @@
 - 👋 Hi, I’m I am Vishnu Vardhan Rao.
-- 👀 I’m interested in Full stack development, mainly strengthing my frontend skills tp get into Blockchain development
+- 👀 I’m interested in Machine learning, mainly strengthing my skills for a Data Scientist role.
 - 🌱 I’m currently learning Python for Data Science
 - 💞️ I’m looking to collaborate on Machine learning projects and internships
 - 📫 How to reach me tatavishnurao@gmail.com
